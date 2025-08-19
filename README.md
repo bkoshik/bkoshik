@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm bkoshik!
 
-<!--
-**bkoshik/bkoshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Low-Level Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I'm passionate about building from the ground up, exploring the depths of programming languages, and reimagining standard libraries in my own style.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 **Languages:** Rust, C, Python  
+- 🛠️ **Tools:** Git, GitHub, GitHub WorkFlow
+- 🌏 **Learning:** Japanese (日本語を勉強しています)
+- 🍏 **Fun Fact:** Proud Apple fan!
+- 🧠 I love writing low-level code and enjoy creating my own implementations for anything—even the standard library.
+
+---
+
+## 📦 Featured Projects
+
+- [fsio](https://github.com/bkoshik/fsio): Filesystem I/O library with a low-level focus.
+- [librust](https://github.com/bkoshik/librust): My journey into building Rust libraries from scratch.
+
+---
+
+## ✍️ Philosophy
+
+Why use what’s already there when you can build your own?  
+I believe in understanding the foundations, learning by doing, and always pushing the boundaries of what’s possible with code.
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to check out my repositories, open issues, or start a discussion!
+
+---
+
+> _“Write low-level, think high-level.”_
